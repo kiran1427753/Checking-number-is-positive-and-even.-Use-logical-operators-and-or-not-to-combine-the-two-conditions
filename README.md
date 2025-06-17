@@ -1,0 +1,1 @@
+# Checking-number-is-positive-and-even.-Use-logical-operators-and-or-not-to-combine-the-two-conditions
